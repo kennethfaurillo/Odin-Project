@@ -1,2 +1,2 @@
 # Odin-Project
-Web development course
+🌐 Web development course
