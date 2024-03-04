@@ -1,4 +1,59 @@
-h1 {
-    /* background-color: black; */
-    /* color: black; */
+* {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
 }
+
+#title {
+    font-family: 'Courier New', Courier, monospace;
+    color: gray;
+    font-size: 5vw;
+    text-align: center;
+}
+
+.top-bar {
+    background-color: beige;
+    width: 100%;
+}
+
+.form-vertical{
+    padding: 10px;
+    width: max-content;
+    margin: auto;
+    top: 50%;
+    text-align: center;
+    border: 10px groove;
+}
+
+.divider {
+    height: 16px;
+    width: 50vw;
+    background-color: black;
+    border-radius: 15px;
+    align-content: center;
+}
+
+.alert-text {
+    color: red;
+}
+
+.huge-text {
+    font-size:4vw;
+}
+
+.tiny-text {
+    font-size: 2vw;
+}
+
+.radio-choice,
+.checkbox-choice {
+    font-style: oblique;
+}
+
+.radio-choice {
+    color: red;
+}
+
+.checkbox-choice {
+    color: blue;
+}
+
